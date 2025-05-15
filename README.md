@@ -1,4 +1,4 @@
-# RMSFscript
+# RMSFscript BBfit
 Scripts to calculate the RMSF of atomistic and CG trajectories.
 
 Scripts to calculate the Calpha/backbone Root Mean Square Fluctuation 
